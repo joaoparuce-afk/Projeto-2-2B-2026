@@ -1,16 +1,25 @@
-body{
+body {
     background-color: #000000;
     color: #F6F6F6;
 }
 
-strong{
+strong {
     color: #22cafd;
 }
-.b {
-.img {  width: 480px;
-    height: 255px;
-}
 
-main {
-    display: inline;
-}
+.b {
+    .img {
+        width: 480px;
+        height: 255px;
+    }
+
+    main {
+        display: inline;
+    }
+
+    a {
+        width: 280px;
+        height: 79px;
+        background-color:#22D4FD;
+border-radius: 16px;
+    }
