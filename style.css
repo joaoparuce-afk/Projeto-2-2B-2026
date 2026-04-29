@@ -14,7 +14,7 @@ strong {
     }
 
     main {
-        display: inline;
+        display: flex;
     }
 
     a {
