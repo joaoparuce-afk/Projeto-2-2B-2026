@@ -10,3 +10,7 @@ strong{
 .img {  width: 480px;
     height: 255px;
 }
+
+main {
+    display: inline;
+}
