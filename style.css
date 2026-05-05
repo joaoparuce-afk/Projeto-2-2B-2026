@@ -10,7 +10,7 @@ strong {
 .b {
     .img {
         width: 480px;
-        height: 255px;
+        height: 550px;
     }
 
     main {
@@ -20,6 +20,13 @@ strong {
     a {
         width: 280px;
         height: 79px;
-        background-color:#22D4FD;
-border-radius: 16px;
+        background-color: #22D4FD;
+        border-radius: 16px;
+        padding: 16px;
     }
+    .texto{
+    width: 352px;
+
+
+
+}  
