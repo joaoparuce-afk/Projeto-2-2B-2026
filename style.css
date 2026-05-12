@@ -31,3 +31,11 @@ strong {
 
 
     }
+
+
+    .principal {
+
+        display: flex;
+        flex-direction: center;
+        align-items: center;
+        }
